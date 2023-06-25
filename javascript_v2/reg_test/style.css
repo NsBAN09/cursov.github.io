@@ -1,0 +1,9 @@
+.google{
+    font-size: 37px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 25px;
+    border-radius: 20px;
+    border: 0;
+    margin: 25px;
+    background: linear-gradient(45deg, rgb(177, 0, 0) 30%, rgb(157, 255, 0) 30%, rgb(246, 255, 0) 40%);
+}

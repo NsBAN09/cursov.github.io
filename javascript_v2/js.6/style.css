@@ -1,0 +1,49 @@
+.article{
+    border:2px dashed gray;
+    border-radius: 20px;
+    width: 50%;
+    padding: 10px;
+    background-color: bisque;
+    color: white;
+    font-family: 'Segou UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+.article:hover{
+    box-shadow: 0px 0px 10px 20px gray;
+}
+.main{
+    width: 80%;
+    margin-left: 10%;
+    border-top: 80px;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.197);
+    padding: 20px 40px;
+}
+.body{
+    background-image: url(https://images.unian.net/photos/2022_09/thumb_files/1200_0_1662892107-3846.jpg);
+    background-size: 100% 100%;
+    background-position: fixed;
+}
+.title{
+    border-left: 2px solid rgba(255, 255, 255, 0.631);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.631);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+.text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+    font-weight: 500;
+    color: rgb(191, 255, 0);
+}
+a{
+    text-decoration: none;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: rgb(134, 43, 226);
+    padding: 6px;
+    border-radius: 5px;
+}
