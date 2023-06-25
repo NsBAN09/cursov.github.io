@@ -1,0 +1,43 @@
+.add_form{
+   
+    width: 30%;
+    height: 450px;
+    margin-left: 35%;
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px yellow;
+}
+body{
+    margin: 0;
+    font-family: 'Sigmar One', cursive;
+    background-image: url(bg.jpg);
+    background-size: 100% 100%;
+}
+input{
+    width:40px;
+    transition: width 0.5s linear;
+    padding: 5px;
+}
+input:focus{
+    width:200px;
+}
+form{
+    color: blueviolet;
+    font-size: 16px;
+    padding: 40px;
+    font-family: 'Sigmar One', cursive;
+}
+button{
+    padding: 10px;
+    background-color: rgb(40, 120, 120, 0.5);
+    color:blueviolet;
+    font-family: 'Sigmar One', cursive;
+    font-size: 20px;
+    border:0;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(40, 120, 120, 1);
+}
+

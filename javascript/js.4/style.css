@@ -1,0 +1,19 @@
+th{
+    border-bottom: 1px solid gray;
+}
+thead{
+    background-color: rgb(0, 255, 221);
+}
+.edit,.delete{
+    padding: 7px;
+    border-radius: 5px;
+    color: black;
+    border: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.edit{
+    background-color: rgb(255, 169, 7);
+}
+.delete{
+    background-color: rgb(255, 15, 0);
+}
